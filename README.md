@@ -30,5 +30,6 @@ smart-arborization-system/
 ## 📚 Documentação
 
 - [Requisitos Funcionais e Não-Funcionais](docs/requisitos.md)
+- [Papéis de Usuário e Fluxos de Interação](docs/papeis-e-fluxos.md)
 
 ---
