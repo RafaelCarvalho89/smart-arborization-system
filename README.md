@@ -42,5 +42,6 @@ smart-arborization-system/
 - [Requisitos Funcionais e Não-Funcionais](docs/requisitos.md)
 - [Papéis de Usuário e Fluxos de Interação](docs/papeis-e-fluxos.md)
 - [Arquitetura do Sistema](docs/arquitetura.md)
+- [Análise de Armazenamento de Imagens](docs/armazenamento-imagens.md)
 
 ---
