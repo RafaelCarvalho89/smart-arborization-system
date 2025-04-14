@@ -29,11 +29,12 @@ smart-arborization-system/
 │   ├── index.html
 │   ├── Dockerfile
 ├── docker/
-│   └── docker-compose.yml
+│   └── init.sql
 ├── docs/
 │   ├── requisitos.md
 │   ├── papeis-e-fluxos.md
 │   └── arquitetura.md
+├── docker-compose.yml
 └── README.md
 ```
 
