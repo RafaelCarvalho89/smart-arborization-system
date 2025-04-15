@@ -24,19 +24,37 @@ smart-arborization-system/
 │   ├── src/
 │   ├── pom.xml
 │   ├── Dockerfile
+│   ├── ...
 ├── frontend/
 │   ├── src/
 │   ├── index.html
 │   ├── Dockerfile
+│   ├── ...
 ├── docker/
 │   └── init.sql
 ├── docs/
-│   ├── requisitos.md
+│   ├── armazenamento-imagens.md
+│   ├── arquitetura.md
 │   ├── papeis-e-fluxos.md
-│   └── arquitetura.md
+│   └── requisitos.md
+├── .env.example
+├── .gitattributes
+├── .gitignore
 ├── docker-compose.yml
 └── README.md
 ```
+
+## 🐳 Execução via Docker Compose
+
+1. Configure seu `.env` com base no `.env.example`
+2. Execute:
+
+```bash
+docker compose up --build
+```
+
+O backend estará disponível em `http://localhost:8080`  
+O frontend em `http://localhost:5173`
 
 ## 📚 Documentação
 
